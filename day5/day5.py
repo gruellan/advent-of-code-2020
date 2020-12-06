@@ -10,5 +10,5 @@ if __name__ == "__main__":
 
     print("---------- PART 1 ----------")
     print(get_seat_numbers("FBFBBFFRLR"))
-
+ 
     print("---------- PART 2 ----------")
